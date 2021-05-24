@@ -1,6 +1,6 @@
-#Drug Verification
+# Drug Verification
 
-#Created With Laravel, Html, Css, Bootstrap and MySql
+# Created With Laravel, Html, Css, Bootstrap and MySql
 
 ** 1.0.0 Version**
 
